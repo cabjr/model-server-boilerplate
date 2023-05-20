@@ -1,0 +1,26 @@
+{
+    "tensorflow": {
+        "mnist_model": {
+            "model_path": "/models/tensorflow/mnist_model.h5",
+            "input_shape": [1, 28, 28],
+            "output_shape": [1, 10]
+        },
+        "other_model": {
+            "model_path": "/models/tensorflow/other_model.h5",
+            "input_shape": [1, 32, 32, 3],
+            "output_shape": [1, 1000]
+        }
+    },
+    "scikit": {
+        "iris_model": {
+            "model_path": "/models/scikit/iris_model.pkl",
+            "input_shape": [1, 4],
+            "output_shape": [1]
+        },
+        "other_model": {
+            "model_path": "/models/scikit/other_model.pkl",
+            "input_shape": [1, 30],
+            "output_shape": [1, 2]
+        }
+    }
+}
