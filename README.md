@@ -1,4 +1,11 @@
 # Model server boilerplate (using flask)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![k6](https://img.shields.io/badge/-k6-0899D3?style=flat-square&logo=k6&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-6D0202?style=flat-square&logo=gunicorn&logoColor=white)
 
 This project is a Flask-based server for serving machine learning models. It currently supports models from TensorFlow and scikit-learn.
 
